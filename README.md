@@ -2,6 +2,7 @@
 This project is part of the Responsive Web Design Certification track on freeCodeCamp. It focuses on mastering CSS pseudo-classes and pseudo-elements to create more dynamic, interactive, and visually appealing web pages.
 
 📚 About the Exercise
+
 In this exercise, I applied and practiced:
 
 Pseudo-classes (e.g., :hover, :focus, :nth-child(), :not(), etc.)
